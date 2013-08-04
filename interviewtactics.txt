@@ -1,0 +1,13 @@
+- Windows programmers seem to fail
+- lots of technical questions
+- go with questions of your own
+- seem interested, be enthusiastic, ask lots of questions, "hey that seems kinda cool! do you guys apply it to this problem? how about that one?"
+
+- Before the interview (after lunch) practise some questions
+- figure out the problems and solve them, run through the issues
+- think our loud
+- ask lots of questions
+	- do NOT question the validity of the question being asked
+- hop in and write code on a white board as soon as possible
+	- ask if syntax is important
+	

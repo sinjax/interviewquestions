@@ -1,0 +1,9 @@
+Main differences between C++ and Java
+- C++ gives you access to the instance of an object, in java everything is a reference
+- C++ allows for multiple inheretence which can lead to some ambiguity when a class extends from two classes which both share a common ancestor, 
+	- java allows a weaker version of multiple inheretence in the form of interfaces
+- C++ is compiled to native machine code, java is compiled down to an intermediary byte code which runs on java virtual machines
+	- This "usually makes C++ faster" but I have recently been working on a high performance java base vision library and as long as your careful java can be as fast as C equivilant programs
+- C++ forces the programmer to deal with memory directly, memory is allocated with new (or malloc from C) and must be directly deallocated 
+	- java implements various garbage collection strategies, the most recent one being G1
+- Friend classes or methods have access to private variables

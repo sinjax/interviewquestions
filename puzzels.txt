@@ -1,0 +1,23 @@
+hallway (curved, straight, possibly crossroads)
+100 closed lockers (locked, openable)
+begin opening, middle, end, start, circular hallway? 
+1 -> 1 1
+11 -> 10 1
+111 -> 101 -> 100 1
+1111 -> 1010 -> 1000 -> 1001 2
+11111 -> 10101 -> 10001 -> 10011 -> 10010 2
+111111 -> 101010 -> 100011 ->100111 -> 100101 -> 100100 2
+
+
+Lights:
+3 switches set to: 000
+s1,s2,s3  and l1,l2,l3
+
+turn on s1, wait. turn off s1, turn on switch 2, walk into the room, hot bulb is s1, dark bulb is s3, on bulb is s2
+
+Bridge, rickety, night
+2 travelers on the bridge, must use a flashlight
+each traveler, different speed!
+t1 -> 1 minute
+t2 -> 2 minutes
+t3 -> 5 minutes

@@ -1,0 +1,64 @@
+TArrayStringProblemsTest
+v7
+r0
+t330899725.848544
+cCheck dependencies
+cCompileC build/ArrayStringProblemsTest.build/Debug/ArrayStringProblemsTest.build/Objects-normal/i386/main.o /Users/ss/Development/techinterview/cworkspace/ArrayStringProblemsTest/main.c normal i386 c com.apple.compilers.gcc.4_2
+cLd /Users/ss/Development/techinterview/cworkspace/ArrayStringProblemsTest/build/Debug/ArrayStringProblemsTest normal i386
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004D66406900000000000000EE
+t1298546793
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/stdio.h
+c0000000047BA99310000000000003D1D
+t1203411249
+s15645
+
+N/Users/ss/Development/techinterview/cworkspace/ArrayStringProblemsTest/build/ArrayStringProblemsTest.build/Debug/ArrayStringProblemsTest.build/Objects-normal/i386/ArrayStringProblemsTest.LinkFileList
+c000000004E08E98C00000000000000AA
+t1309206924
+s170
+
+N/Users/ss/Development/techinterview/cworkspace/ArrayStringProblemsTest/build/ArrayStringProblemsTest.build/Debug/ArrayStringProblemsTest.build/Objects-normal/i386/main.o
+t1309206925
+s2216
+
+N/Users/ss/Development/techinterview/cworkspace/ArrayStringProblemsTest/build/Debug/ArrayStringProblemsTest
+t1309206925
+s9076
+
+N/Users/ss/Development/techinterview/cworkspace/ArrayStringProblemsTest/main.c
+c000000004E08E9880000000000000089
+t1309206920
+s137
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies330899724#330899724#0(0"0(0#1#0"8030569490719273984#0"0#
+
+CCompileC build/ArrayStringProblemsTest.build/Debug/ArrayStringProblemsTest.build/Objects-normal/i386/main.o /Users/ss/Development/techinterview/cworkspace/ArrayStringProblemsTest/main.c normal i386 c com.apple.compilers.gcc.4_2
+s330899724.456546
+e330899725.181283
+r1
+xCompileC
+xbuild/ArrayStringProblemsTest.build/Debug/ArrayStringProblemsTest.build/Objects-normal/i386/main.o
+x/Users/ss/Development/techinterview/cworkspace/ArrayStringProblemsTest/main.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/ss/Development/techinterview/cworkspace/ArrayStringProblemsTest/main.c330899724#330899725#0(0"0(0#0#77"/Users/ss/Development/techinterview/cworkspace/ArrayStringProblemsTest/main.c6085327803885187072#1289"    cd /Users/ss/Development/techinterview/cworkspace/ArrayStringProblemsTest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ss/Development/techinterview/cworkspace/ArrayStringProblemsTest/build/ArrayStringProblemsTest.build/Debug/ArrayStringProblemsTest.build/ArrayStringProblemsTest.hmap -F/Users/ss/Development/techinterview/cworkspace/ArrayStringProblemsTest/build/Debug -I/Users/ss/Development/techinterview/cworkspace/ArrayStringProblemsTest/build/Debug/include -I/Users/ss/Development/techinterview/cworkspace/ArrayStringProblemsTest/build/ArrayStringProblemsTest.build/Debug/ArrayStringProblemsTest.build/DerivedSources/i386 -I/Users/ss/Development/techinterview/cworkspace/ArrayStringProblemsTest/build/ArrayStringProblemsTest.build/Debug/ArrayStringProblemsTest.build/DerivedSources -c /Users/ss/Development/techinterview/cworkspace/ArrayStringProblemsTest/main.c -o /Users/ss/Development/techinterview/cworkspace/ArrayStringProblemsTest/build/ArrayStringProblemsTest.build/Debug/ArrayStringProblemsTest.build/Objects-normal/i386/main.o0#
+
+CLd /Users/ss/Development/techinterview/cworkspace/ArrayStringProblemsTest/build/Debug/ArrayStringProblemsTest normal i386
+s330899725.181362
+e330899725.848505
+r1
+xLd
+x/Users/ss/Development/techinterview/cworkspace/ArrayStringProblemsTest/build/Debug/ArrayStringProblemsTest
+xnormal
+xi386
+lSLF07#2@111"Link /Users/ss/Development/techinterview/cworkspace/ArrayStringProblemsTest/build/Debug/ArrayStringProblemsTest330899725#330899725#0(0"0(0#0#0"8602163392#718"    cd /Users/ss/Development/techinterview/cworkspace/ArrayStringProblemsTest    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/ss/Development/techinterview/cworkspace/ArrayStringProblemsTest/build/Debug -F/Users/ss/Development/techinterview/cworkspace/ArrayStringProblemsTest/build/Debug -filelist /Users/ss/Development/techinterview/cworkspace/ArrayStringProblemsTest/build/ArrayStringProblemsTest.build/Debug/ArrayStringProblemsTest.build/Objects-normal/i386/ArrayStringProblemsTest.LinkFileList -mmacosx-version-min=10.5 -o /Users/ss/Development/techinterview/cworkspace/ArrayStringProblemsTest/build/Debug/ArrayStringProblemsTest0#
+

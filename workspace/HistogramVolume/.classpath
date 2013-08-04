@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/Users/ss/.m2/repository/org/openimaj/core-image/1.0.2-SNAPSHOT/core-image-1.0.2-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/Users/ss/.m2/repository/org/openimaj/core/1.0.2-SNAPSHOT/core-1.0.2-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/Users/ss/.m2/repository/org/openimaj/core-math/1.0.2-SNAPSHOT/core-math-1.0.2-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/Users/ss/.m2/repository/log4j/log4j/1.2.14/log4j-1.2.14.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
